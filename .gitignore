@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+*.pdb
+/.vs
+*.user
+*.log
+*.tlog
+/Matrix/x64/Debug
+/Matrix/x64/Release
+/MatrixTest/x64/Debug
+/MatrixTest/x64/Release
+/x64/Debug
+/x64/Release
